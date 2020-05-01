@@ -1,2 +1,2 @@
 # machine_learning_projects
-The projects of Machine Learning 2020
+The projects of the course of machine learning in Taiwan, 2020
