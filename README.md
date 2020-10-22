@@ -1,2 +1,2 @@
-# machine_learning_projects
-The projects of the course of machine learning @ NCTU, 2020
+# Machine Learning Projects
+The projects of the course of machine learning
